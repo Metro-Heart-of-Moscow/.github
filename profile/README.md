@@ -5,5 +5,5 @@
 
 Please ensure you are backing up to the Backup Branch once you test that the config/code is working
 
-# Website: https://dayz.world/rules/
+# Website: https://dayz.world/
 # Discord: https://discord.gg/uKtXPbVSD7
